@@ -1,0 +1,4 @@
+<?php
+$restaurants = [];
+$response = "hugahuga";
+?>
